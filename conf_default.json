@@ -1,0 +1,42 @@
+{
+  "background_color": "#c4c4c4",
+  "main_win": {
+    "window": {
+      "title": "南商密逃",
+      "width": 600,
+      "height": 500
+    },
+    "start_button": {
+      "width": 300,
+      "height": 50,
+      "left": 150,
+      "top": 200,
+      "style_sheet": "QPushButton{background:#fcfcfc;border-radius:5px;font: 16pt \\\"MS Serif\\\"}",
+      "password": "1"
+    },
+    "modify_button": {
+      "width": 150,
+      "height": 40,
+      "left": 225,
+      "top": 400,
+      "style_sheet": "QPushButton{background:#fcfcfc;border-radius:5px;font: 16pt \\\"MS Serif\\\"}",
+      "password": "2"
+    }
+  },
+  "admin_win": {
+    "window": {
+      "title": "南商密逃",
+      "width": 600,
+      "height": 500
+    },
+    "table": {
+      "width": 500,
+      "height": 400
+    },
+    "chmod_list": {
+      "姓名": "小明",
+      "年龄": 18,
+      "身高": 190
+    }
+  }
+}
